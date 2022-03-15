@@ -3,28 +3,28 @@
 ![](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat-square&logo=mongoDB)  ![](https://img.shields.io/badge/npm%20package-express-orange?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-mongoose-cyan?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-moment-%3CCOLOR%3E?style=flat-square&logo=npm)
 
 ## Table of Contents:  
--[Description](#Description)  
--[Walkthrough Videos](#Walkthrough-Videos)  
--[Installation](#Installation)  
--[Tests](#Tests)  
--[License Details](#License-Details)    
--[Questions](#Questions)  
+* [Description](#Description)  
+* [Walkthrough Videos](#Walkthrough-Videos)  
+* [Installation](#Installation)  
+* [Tests](#Tests)  
+* [License Details](#License-Details)    
+* [Questions](#Questions)  
 
 ## Description:
 This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.
 
 
 ## Walkthrough Videos
--[User Routes](x)  
--[Friend Routes](x)  
--[Thought Routes](x)  
--[Reaction Routes](x)  
+* [User Routes](x)  
+* [Friend Routes](x)  
+* [Thought Routes](x)  
+* [Reaction Routes](x)  
 
 ## Installation:
--Clone GitHub repository
--npm init
--Ensure that MongoDB and Express are installed on your computer.
--Invoke application using npm start.
+* Clone GitHub repository
+* npm init
+* Ensure that MongoDB and Express are installed on your computer.
+* Invoke application using npm start.
 
 ## Tests:  
 
