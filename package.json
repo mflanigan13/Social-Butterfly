@@ -1,0 +1,26 @@
+{
+  "name": "social-butterfly",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat-square&logo=mongoDB)  ![](https://img.shields.io/badge/npm%20package-express-orange?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-mongoose-cyan?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-moment-%3CCOLOR%3E?style=flat-square&logo=npm)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mflanigan13/Social-Butterfly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mflanigan13/Social-Butterfly/issues"
+  },
+  "homepage": "https://github.com/mflanigan13/Social-Butterfly#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.6"
+  }
+}
