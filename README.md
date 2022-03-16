@@ -15,10 +15,11 @@ This is a set of API for a social network that uses a MongoDB database so that t
 
 
 ## Walkthrough Videos
-* [User Routes](x)  
-* [Friend Routes](x)  
-* [Thought Routes](x)  
-* [Reaction Routes](x)  
+* [Server](https://drive.google.com/file/d/1nRBACH3n2OzsGl0HhJ5mahSqeKumeak4/view)  
+* [User Routes](https://drive.google.com/file/d/17bQ1t2b-Uh8skUQCTsLTkGP_5WZT_D_W/view)
+* [Friend Routes](https://drive.google.com/file/d/1JErtkj6FKqbrb7Rb7u053GeVePJCf5ld/view)  
+* [Thought Routes](https://drive.google.com/file/d/1MQL-KcsOr1MncQJE_yMUQd8gMNfL3w22/view)  
+* [Reaction Routes](https://drive.google.com/file/d/1o0ItqgIvv2KXMAxe7pyjZJ0wWEzl2piz/view)  
 
 ## Installation:
 * Clone GitHub repository
